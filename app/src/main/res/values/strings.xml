@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lista zakupów</string>
+    <string name="action_clear_list">Wyczyść listę</string>
+    <string name="item_input">Podaj nazwę przediotu</string>
+    <string name="confirm_button">Dodaj pozycję</string>
+    <string name="mark_as_deleted">Oznacz jako niepotrzebne</string>
+    <string name="unmark_as_deleted">Oznacz potrzebne</string>
+    <string name="remove_item">Usuń pozycję</string>
+    <string name="mark_as_important">Oznacz jako ważne</string>
+    <string name="no_items_text">Brak pozycji na liście</string>
+    <string name="need_set_item_value">Musisz podać zawartość przedmiotu!</string>
+</resources>

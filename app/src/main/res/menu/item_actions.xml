@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".activities.ListActivity">
+<item android:id="@+id/mark_as_deleted"
+      android:title="@string/mark_as_deleted"
+      android:orderInCategory="100"
+      app:showAsAction="never"/>
+<item android:id="@+id/remove_item"
+      android:title="@string/remove_item"
+      android:orderInCategory="100"
+      app:showAsAction="never"/>
+</menu>
